@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e724d828-580a-435a-9ec6-923f63b676a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/AlgoSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/AlgoSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/will/learn/algorithm/test/AlgoSortUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/will/learn/algorithm/test/AlgoSortUnitTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,23 +63,52 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1695174334">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1035" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1035" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="216">
               <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/will/learn/algorithm/test/AlgoSortUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="552">
+              <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,14 +116,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/AlgoSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="208">
+              <caret line="122" column="35" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1544018130938" expanded="true" signature="725:2436" ph="..." />
+                <element signature="e#709#724#0" />
+                <element signature="e#2458#2471#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="994" column="19" selection-start-line="994" selection-start-column="19" selection-end-line="994" selection-end-column="19" />
+              <folding>
+                <element signature="e#10189#10190#0" expanded="true" />
+                <element signature="e#10216#10217#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,7 +146,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2533">
+            <state relative-caret-position="552">
               <caret line="202" selection-start-line="202" selection-end-line="202" />
             </state>
           </provider>
@@ -110,7 +155,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/SortItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="162">
               <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="e#448#449#0" expanded="true" />
@@ -147,8 +192,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/quicksort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/Quicksort.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/will/learn/algorithm/test/quicksortUnitTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/will/learn/algorithm/test/AlgoSortUnitTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/AlgoSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/will/learn/algorithm/test/AlgoSortUnitTest.java" />
       </list>
     </option>
   </component>
@@ -220,8 +265,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +275,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -247,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AlgoSortUnitTest.bubbleSortTest">
+  <component name="RunManager" selected="JUnit.AlgoSortUnitTest.mergeSortTest">
     <configuration name="AlgoSortUnitTest.bubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
@@ -259,6 +304,22 @@
       <option name="PACKAGE_NAME" value="com.will.learn.algorithm.test" />
       <option name="MAIN_CLASS_NAME" value="com.will.learn.algorithm.test.AlgoSortUnitTest" />
       <option name="METHOD_NAME" value="bubbleSortTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgoSortUnitTest.mergeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.will.learn.algorithm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.will.learn.algorithm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.will.learn.algorithm.test.AlgoSortUnitTest" />
+      <option name="METHOD_NAME" value="mergeSortTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -317,9 +378,11 @@
       <item itemvalue="JUnit.AlgoSortUnitTest.test" />
       <item itemvalue="JUnit.AlgoSortUnitTest.quickSortTest" />
       <item itemvalue="JUnit.AlgoSortUnitTest.bubbleSortTest" />
+      <item itemvalue="JUnit.AlgoSortUnitTest.mergeSortTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AlgoSortUnitTest.mergeSortTest" />
         <item itemvalue="JUnit.AlgoSortUnitTest.bubbleSortTest" />
         <item itemvalue="JUnit.AlgoSortUnitTest.quickSortTest" />
         <item itemvalue="JUnit.AlgoSortUnitTest.test" />
@@ -343,25 +406,11 @@
       <workItem from="1543981279063" duration="1105000" />
       <workItem from="1544013653315" duration="4589000" />
       <workItem from="1544018605859" duration="100000" />
+      <workItem from="1544022170825" duration="3275000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AlgoSortUnitTest_bubbleSortTest - 2018.12.05 at 21h 47m 28s.xml">
-      <configuration name="AlgoSortUnitTest.bubbleSortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AlgoSortUnitTest_bubbleSortTest - 2018.12.05 at 21h 47m 39s.xml">
-      <configuration name="AlgoSortUnitTest.bubbleSortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AlgoSortUnitTest_bubbleSortTest - 2018.12.05 at 21h 50m 06s.xml">
-      <configuration name="AlgoSortUnitTest.bubbleSortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AlgoSortUnitTest_bubbleSortTest - 2018.12.05 at 21h 51m 24s.xml">
-      <configuration name="AlgoSortUnitTest.bubbleSortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AlgoSortUnitTest_bubbleSortTest - 2018.12.05 at 21h 53m 06s.xml">
-      <configuration name="AlgoSortUnitTest.bubbleSortTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AlgoSortUnitTest_bubbleSortTest - 2018.12.05 at 21h 53m 33s.xml">
       <configuration name="AlgoSortUnitTest.bubbleSortTest" configurationId="JUnit" />
     </history-entry>
@@ -377,9 +426,24 @@
     <history-entry file="AlgoSortUnitTest_bubbleSortTest - 2018.12.05 at 22h 05m 02s.xml">
       <configuration name="AlgoSortUnitTest.bubbleSortTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AlgoSortUnitTest_bubbleSortTest - 2018.12.05 at 23h 03m 50s.xml">
+      <configuration name="AlgoSortUnitTest.bubbleSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlgoSortUnitTest_quickSortTest - 2018.12.05 at 23h 20m 59s.xml">
+      <configuration name="AlgoSortUnitTest.quickSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlgoSortUnitTest_quickSortTest - 2018.12.05 at 23h 21m 59s.xml">
+      <configuration name="AlgoSortUnitTest.quickSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlgoSortUnitTest_bubbleSortTest - 2018.12.05 at 23h 22m 06s.xml">
+      <configuration name="AlgoSortUnitTest.bubbleSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlgoSortUnitTest_mergeSortTest - 2018.12.05 at 23h 56m 33s.xml">
+      <configuration name="AlgoSortUnitTest.mergeSortTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21937000" />
+    <option name="totallyTimeSpent" value="25212000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,21 +455,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1358" y="-103" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14818764" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14978679" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.30016863" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.2993763" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.248104" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3277311" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32744282" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3277311" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50319827" side_tool="true" weight="0.2665222" />
@@ -426,39 +490,9 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/AlgoSort.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/will/learn/algorithm/test/AlgoSortUnitTest.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -466,34 +500,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/AlgoSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1544018130938" expanded="true" signature="725:2436" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2533">
-          <caret line="202" selection-start-line="202" selection-end-line="202" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/SortItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="162">
           <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="e#448#449#0" expanded="true" />
@@ -504,12 +513,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="440" column="25" selection-start-line="440" selection-start-column="25" selection-end-line="440" selection-end-column="25" />
+          <folding>
+            <element signature="e#17181#17182#0" expanded="true" />
+            <element signature="e#17264#17265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="994" column="19" selection-start-line="994" selection-start-column="19" selection-end-line="994" selection-end-column="19" />
+          <folding>
+            <element signature="e#10189#10190#0" expanded="true" />
+            <element signature="e#10216#10217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/will/learn/algorithm/test/AlgoSortUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="552">
+          <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/will/learn/algorithm/AlgoSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="122" column="35" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#709#724#0" />
+            <element signature="e#2458#2471#0" />
           </folding>
         </state>
       </provider>

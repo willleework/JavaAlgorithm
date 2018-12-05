@@ -53,8 +53,17 @@ public class AlgoSortUnitTest {
      */
     @Test
     public void quickSortTest() {
-        AlgoSort.quickSort(items, 0, 3, comparator);
+        AlgoSort.quickSort(items, comparator);
         Print(items);
+    }
+
+    /**
+     * 归并算法测试
+     */
+    @Test
+    public void mergeSortTest(){
+        ArrayList<SortItem> rslt = AlgoSort.mergeSort(items, comparator);
+        Print(rslt);
     }
 
     /**
